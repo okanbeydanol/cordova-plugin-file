@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-file",
-  "version": "8.0.0",
+  "version": "8.0.1",
   "description": "Cordova File Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
@@ -38,6 +38,9 @@
       },
       "7.0.0": {
         "cordova-android": ">=10.0.0"
+      },
+      "8.0.0": {
+        "cordova-android": ">=12.0.0"
       },
       "9.0.0": {
         "cordova": ">100"
